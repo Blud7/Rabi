@@ -1,0 +1,94 @@
+
+.navbar-expand-lg
+{
+	background-color: #010428;
+}
+
+.row a
+{
+	color: #010428;
+}
+
+
+html, p, h1, h2, h3, h4, body
+
+{
+	color: white;
+}
+
+body{
+	background: linear-gradient(90deg, rgba(2,0,36,0.8701855742296919) 0%, rgba(26,39,61,0.8561799719887955) 0%, rgba(49,98,108,0.08587184873949583) 88%, rgba(43,114,129,0) 100%, rgba(0,212,255,1) 100%), url('images/louis-199.jpg'), no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+.fa-apple-pay{
+    visibility: hidden;
+}
+
+.nav
+{
+	display: flex;
+	margin: 0 auto;
+	flex-wrap: wrap;
+	text-align: center;
+}
+
+.btn 
+{
+	display: flex;
+	margin: 0 auto;
+    padding: 15px 260px;
+    font-size: 20px;
+    color: black;
+    border-radius: 26px;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.content {
+  min-height: 100%;
+}
+
+.content-inside {
+  padding: 40px;
+  padding-bottom: 10px;
+  background-color: #1F7A8C;
+}
+
+.footer {
+  background-color: #1F7A8C;
+}
+
+.row
+{
+	display: flex;
+	width: 50%;
+	margin: 0 auto;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+}
+
+h1, h4, p
+{
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.cardboard
+{
+	padding-left: 50px;
+	padding-bottom: 50px;
+}
+
+.card-desc
+{
+		padding-left: 10px;
+
+}
